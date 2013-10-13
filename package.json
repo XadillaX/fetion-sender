@@ -1,0 +1,26 @@
+{
+  "name": "fetion-sender",
+  "version": "0.0.1",
+  "description": "The fetion sender for node.js.",
+  "main": "index.js",
+  "dependencies": {
+    "nodegrassex": "~0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node tester.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/XadillaX/fetion-sender.git"
+  },
+  "keywords": [
+    "fetion",
+    "node.js"
+  ],
+  "author": "XadillaX",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/XadillaX/fetion-sender/issues"
+  }
+}
