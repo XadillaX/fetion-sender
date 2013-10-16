@@ -10,7 +10,7 @@ You just need to install this module via `npm`:
 
     $ npm install fetion-sender
 
-Or download it from [here](https://github.com/XadillaX/vjudge-submitter/archive/master.zip) and put it to your `node_modules` directory.
+Or download it from [here](https://github.com/XadillaX/fetion-sender/archive/master.zip) and put it to your `node_modules` directory.
 
 Another way is to clone this repo via git to your `node_modules` directory.
 
