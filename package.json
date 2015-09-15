@@ -19,7 +19,7 @@
         "node.js"
     ],
     "author": "XadillaX",
-    "license": "BSD",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/XadillaX/fetion-sender/issues"
     }
